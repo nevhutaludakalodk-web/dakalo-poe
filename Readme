@@ -1,0 +1,27 @@
+# Hope for All Foundation — Community Upliftment Web Platform (Part 3)
+
+## Project Information
+- **Repository Link:** https://github.com/nevhutaludakalodk-web/Dakalo-part-2[span_3]
+- **Live Deployed Site:** https://nevhutaludakalodk-web.github.io/Dakalo-part-2/
+
+## Part 3 Enhancement Overview
+- **JavaScript Enhancements:** Leaflet.js interactive mapping, live client-side search filtering, dynamic lightbox gallery modal, smooth back-to-top navigation, and collapsible accordions.
+- **Form Validation & Processing:**
+  - `enquiry.html`: Validates South African phone number formats and dynamically computes availability, volunteer orientation schedules, or sponsorship costing outputs.
+  - `contact.html`: Validates inputs and compiles a formatted `mailto` trigger for direct email transmission.
+- **SEO Optimization:** Includes `<meta name="description">` and `<meta name="keywords">` across all headers, structured `H1`-`H3` tags, descriptive image `alt` tags, `robots.txt`, and `sitemap.xml`.
+
+## Complete Changelog
+
+### Version 3.0.0 (Part 3 Release)
+- **Part 2 Feedback Amendments:** Standardized CSS styling, verified link integrity, and ensured comprehensive image alt-text across all cards.
+- **SEO Setup:** Configured `robots.txt` and `sitemap.xml` at the root directory. Added page-specific meta descriptions and keywords.
+- **Interactive Mapping:** Replaced static map iframe on `contact.html` with an interactive OpenStreetMap powered by Leaflet.js.
+- **Lightbox Feature:** Implemented responsive full-screen image preview modal in `js/main.js`.
+- **Live Search Filter:** Built search bar functionality filtering menu and event items in real time.
+- **Form Processing Engine:** Integrated client-side regex phone validation and dynamic response output cards in `js/enquiry.js` and `js/contact.js`.
+
+## References
+1. Leaflet.js Open-Source Interactive Map Library. Available at: https://leafletjs.com/
+2. Unsplash High-Resolution Social Impact Photography. Available at: https://unsplash.com/
+3. Google Search Console & SEO Starter Guide. Available at: https://developers.google.com/search/docs/fundamentals/seo-starter-guide

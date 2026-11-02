@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nevhutaludakalodk-web.github.io/Dakalo-part-2/sitemap.xml

@@ -1,0 +1,18 @@
+Dakalo-part-2/
+├── index.html
+├── robots.txt
+├── sitemap.xml
+├── README.md
+├── html/
+│   ├── aboutus.html
+│   ├── menu.html
+│   ├── events.html
+│   ├── enquiry.html
+│   └── contact.html
+├── miscellanous/
+│   └── style.css
+└── js/
+    ├── main.js
+    ├── map.js
+    ├── enquiry.js
+    └── contact.js
